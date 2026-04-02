@@ -40,4 +40,18 @@ The system has **two panels**: **Staff** and **Customer**, implemented using arr
 ---
 
 ## ▶️ How to Run
-1. Compile the code:
+1. Compile the code: 
+2. Run  the program: 
+
+---
+
+## 🎯 Learning Outcome
+- Practiced menu-driven programming in C  
+- Worked with arrays and functions  
+- Built logical problem-solving skills for real-world applications  
+- Implemented a small system with separate user roles (Staff & Customer)
+
+---
+
+## 📌 Author
+- Amika Ibnat Sarah

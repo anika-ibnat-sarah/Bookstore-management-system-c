@@ -54,4 +54,4 @@ The system has **two panels**: **Staff** and **Customer**, implemented using arr
 ---
 
 ## 📌 Author
-- Amika Ibnat Sarah
+- Anika Ibnat Sarah
